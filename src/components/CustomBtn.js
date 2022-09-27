@@ -16,13 +16,14 @@ const StyledButton = withStyles({
         transform: "none",
         boxShadow: "6px 6px 0 0 #c7d8ed",
         transition: "background .3s,border-color .3s,color .3s",
+        href: `mailto:guptaparesh@hotmail.com`,
         "&:hover": {
             backgroundColor:  "#4f25f7"
           },
     },
     label: {
       textTransform: 'capitalize',
-    },
+    },    
   })(Button);
 
 function CustomBtn(props) {

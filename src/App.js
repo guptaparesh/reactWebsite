@@ -57,8 +57,8 @@ function App() {
        <NavBar/>
        <div className={classes.wrapper}>
           <Typography variant="h4" className={classes.bigSpace} color="primary">
-             I am passionate about nature.
-          </Typography>        
+             Hi, This is Paresh Gupta. I'm a Software Engineer in Seattle, USA.
+          </Typography>
         </div>
         <div className={classes.bigSpace}>
           <Footer/>
