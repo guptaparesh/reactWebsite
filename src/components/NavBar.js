@@ -35,7 +35,7 @@ function NavBar() {
             <Toolbar position="sticky" color="rgba(0, 0, 0, 0.87)" className={classes.bar}>   
                 <img src={logo} className={classes.logo} alt="logo"/> 
                 <Typography variant="h6" className={classes.menuItem}>
-                   About
+                   More about me
                 </Typography>
                 <Typography variant="h6" className={classes.menuItem}>
                     Blog
